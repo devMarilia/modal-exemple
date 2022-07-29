@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/mSKMcT3Xqe8s8/giphy.gif"/></p>
 
-<div align="center">Vamos dar poder a nossa aplicaação e usar os Hooks. <br> Os Hooks resolvem uma grande variedade de problemas encontrados durante o desenvolvimento de componentes. Metaforicamente falando, os Hooks cortam a gordura. Isso significa que eles reduzem e tornam nosso código mais legível, conciso e objetivo  </div> <br><br>
+<div align="center">Vamos dar poder a nossa aplicação e usar os Hooks. <br> Os Hooks resolvem uma grande variedade de problemas encontrados durante o desenvolvimento de componentes. Metaforicamente falando, os Hooks cortam a gordura. Isso significa que eles reduzem e tornam nosso código mais legível, conciso e objetivo  </div> <br><br>
 
 
 
