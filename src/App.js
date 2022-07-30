@@ -1,10 +1,12 @@
-import React from "react"
+import { BrowserRouter } from "react-router-dom";
+import MainRoutes from "./pages/routes";
+
 
 function App() {
   return (
-    <React.Fragment>
-      <h1>Hello World</h1>
-    </React.Fragment>
+    <BrowserRouter>
+      <MainRoutes />
+    </BrowserRouter>
   );
 }
 
