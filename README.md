@@ -15,6 +15,7 @@
 
 ### Dependências <br/>
  >styled-components <br> 
+ >npm install json-server -D
 
 
 
